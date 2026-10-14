@@ -1,0 +1,19 @@
+# Puntos de control de Jupyter
+.ipynb_checkpoints/
+
+# Cachés de Python
+__pycache__/
+*.py[cod]
+
+# Configuración de los editores
+.idea/
+.vscode/
+
+# Entornos virtuales locales
+.venv/
+venv/
+
+# Ficheros del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
